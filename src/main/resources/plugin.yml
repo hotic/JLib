@@ -1,0 +1,4 @@
+name: JLib
+main: me.asgard.jlib.JLib
+version: ${project.version}
+load: STARTUP

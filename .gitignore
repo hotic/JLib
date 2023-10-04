@@ -1,0 +1,6 @@
+folder-alias.json
+.gradle
+.idea
+build
+bin
+/target/
